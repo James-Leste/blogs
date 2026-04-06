@@ -172,7 +172,7 @@ params:
       url: "https://github.com/James-Leste"
     - name: email
       title: Email me
-      url: "ziqiwang2001@outlook.com"
+      url: "mailto:ziqiwang2001@outlook.com"
     - name: instagram
       title: Follow me on Instagram
       url: "https://www.instagram.com/ziq_wang/"
