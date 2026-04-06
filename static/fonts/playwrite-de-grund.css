@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wdth,wght@0,62.5..100,100..900;1,62.5..100,100..900&family=Playwrite+DE+Grund:wght@100..400&display=swap');
+
+/* Apply Noto Serif to the body, paragraphs, and list items */
+body, html, p, li {
+    font-family: 'Playwrite DE Grund', serif !important;
+}
+
+/* Apply Noto Serif to all headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playwrite DE Grund', serif !important;
+}

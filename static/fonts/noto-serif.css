@@ -1,0 +1,12 @@
+/* Import Noto Serif from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300&display=swap');
+
+/* Apply Noto Serif to the body, paragraphs, and list items */
+body, html, p, li {
+    font-family: 'Noto Serif', serif !important;
+}
+
+/* Apply Noto Serif to all headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Serif', serif !important;
+}
