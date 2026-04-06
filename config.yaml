@@ -196,7 +196,13 @@ params:
   #         SiteVerificationTag: "XYZabc"
 
   assets:
-    disableHLJS: true
+    disableHLJS: false
+    favicon: "icons/favicon.ico"
+    favicon16x16: "icons/favicon-16x16.png" 
+    favicon32x32: "icons/favicon-32x32.png" 
+    webmanifest: "icons/site.webmanifest"
+    apple_touch_icon: "icons/apple-touch-icon.png"
+    #safari_pinned_tab: "/icons/safari-pinned-tab.svg"
   #     favicon: "<link / abs url>"
   #     favicon16x16: "<link / abs url>"
   #     favicon32x32: "<link / abs url>"
