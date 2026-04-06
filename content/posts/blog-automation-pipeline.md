@@ -1,7 +1,7 @@
 +++
 date = '2026-04-06T00:10:19+03:00'
 draft = false
-title = 'How My Blog Site is Automated?'
+title = 'How This Blog Site is Automated?'
 +++
 
 ## Overview
@@ -92,6 +92,7 @@ flowchart TB
 
   Local -- "git push" --> blog-content
 ```
+*Fig 1. The architecture of the the automation of this blog site*
 
 ## Reference links
 

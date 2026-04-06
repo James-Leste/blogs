@@ -1,8 +1,0 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = "Ziqi's Blogs"
-theme = 'PaperMod'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
