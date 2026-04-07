@@ -139,7 +139,7 @@ params:
   ShowPageNums: true
   ShowToc: true
   TocOpen: true
-  comments: true
+  comments: false
   # images: ["images/papermod-cover.png"]
 
   # profileMode:
